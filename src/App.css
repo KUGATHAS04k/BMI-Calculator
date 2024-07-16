@@ -34,7 +34,7 @@
   padding: 15px;
  }
 h1{
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 15px;
   padding: 10px 0;
   text-transform: uppercase;
@@ -86,4 +86,5 @@ button:hover{
 .result p:first-child{
   color: #3498db;
   font-weight: bold;
+
 }
